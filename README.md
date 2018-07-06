@@ -8,7 +8,8 @@ Udacity FEND Nanodegree Program - Project6
 
 * Specification
 * How to view
-* Souces
+* Souces used in code
+* Info material
 
 ### Specification
 
@@ -25,11 +26,19 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 2. With your server running, visit the site: `http://localhost:8000`, and look around for a bit to see what the current experience looks like.
 
 
-## Sources
+## Sources used in Code
 
 * [leafletjs](https://leafletjs.com/) and [Mapbox](https://www.mapbox.com/)
+
+## Info material
+
 * [WAI Decorative Images](https://www.w3.org/WAI/tutorials/images/decorative/)
 * [ARIA Techniques Using the aria_labbelled_by attribute](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/)
+* [CSS-Tricks: responsive images srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+* [Google developers: images](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images)
+* [Kulturbanause: responsive images](https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/)
+* [Kollegorna: service worker gotchas](https://www.kollegorna.se/en/2017/06/service-worker-gotchas/)
+* [Flaviocopes: service workers explained](https://flaviocopes.com/service-workers/)
 
 
 

@@ -142,11 +142,6 @@ fillRestaurantsHTML = (restaurants = self.restaurants) => {
 
 /**
  * Create restaurant HTML.
- * Reading material
- * https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
- * https://blog.kulturbanause.de/2014/09/responsive-images-srcset-sizes-adaptive/
- * https://developers.google.com/web/fundamentals/design-and-ux/responsive/images
- *
  */
 createRestaurantHTML = (restaurant) => {
   const li = document.createElement('li');
@@ -207,8 +202,6 @@ addMarkersToMap = (restaurants = self.restaurants) => {
 
 /**
  * Add The service worker.
- * internal info note: https://www.kollegorna.se/en/2017/06/service-worker-gotchas/
- * internal info note: https://flaviocopes.com/service-workers/
  */
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
