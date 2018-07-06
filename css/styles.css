@@ -353,7 +353,8 @@ nav h1 a {
   height: 240px;
 }
 
-#reviews-container-section h2 {
+#reviews-container-section h3 {
+  font-size: 1.5em;
   margin: 0;
   padding: 2rem 1.125rem;
 }
